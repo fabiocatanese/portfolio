@@ -1,0 +1,40 @@
+body {background-color: black}
+#head-bar {background-color: black; font-family: Voces, arial}
+#header {background-color: white; color: black; font-family: Voces, arial}
+#projects {background-color:white; color: white; font-family: Voces, arial} 
+#about-me {background-color: white; color: white; font-family: Voces, arial}
+#contact-me {background-color: black; color: white; font-family: Voces, arial}
+#buttons {color: black; font-weight: bold; font-family: Voces, arial; fon}
+.profile-picture {border-width: 5px; border-color: #f5f5f0; border-style: solid; border-radius: 50%}
+.parallax-header { 
+    background-image: url("https://images.pexels.com/photos/6564/black-and-white-iphone-smartphone-desk.jpg?w=1260&h=750&auto=compress&cs=tinysrgb");
+    height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-projects { 
+    background-image: url("https://images.pexels.com/photos/29977/pexels-photo-29977.jpg?w=1260&h=750&auto=compress&cs=tinysrgb");
+    height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-aboutme { 
+    background-image: url("https://images.pexels.com/photos/139126/pexels-photo-139126.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
+    height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-contactme { 
+    background-image: url("https://cdn.pixabay.com/photo/2016/02/10/23/38/night-1192828_960_720.jpg");
+    height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
